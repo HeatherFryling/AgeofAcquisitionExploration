@@ -7,3 +7,6 @@ Victor Kuperman and Hans Stadthagen-Gonzalez to check for correlation between ag
 syllables. My hypothesis was that if the variables correlated well, it indicated they both reflected an underlying
 reality (word difficulty). If not, they reflected different things, and age of acquisition might contribute a 
 valuable dimension to future word grade level metrics.
+
+Age of Acquisition Data is found here: http://crr.ugent.be/archives/806
+Kuperman et al's paper discussing age of acquisition is found here: https://link.springer.com/article/10.3758/s13428-012-0210-4
